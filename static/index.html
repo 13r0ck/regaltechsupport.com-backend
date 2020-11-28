@@ -1,13 +1,73 @@
-<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Regal Tech Support</title>
-    <script type="module">
-      import init from "/wasm.js";
-      init();
-    </script>
-    <link rel="shortcut icon" href="#" />
-  </head>
-  <body></body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <Title>Document</title>
+    <link rel="stylesheet" href="/build/tailwind.css">
+</head>
+    <body>
+        <div class="">
+            <header style="backdrop-filter: blur(7px)" class="invisible sm:visible w-screen fixed z-50 shadow">
+                <div class="bg-white bg-opacity-30 flex">
+                    <div class="align-center max-w-7xl flex-1 mx-auto">
+                        <div class="float-left px-8 py-3 mx-auto">
+                            <h1 class="text-gray-900 font-bold text-xl flex my-auto">
+                                <img src="/img/email.svg" alt="email icon" class="pr-2 my-auto h-5">
+                                hello@regaltechsupport.com
+                            </h1>
+                        </div>
+                        <div class="float-right px-8 py-3 flex-1">
+                            <h1 class="text-gray-900 float-right font-bold text-xl flex my-auto">
+                                <img src="/img/phone.svg" alt="phone icon" class="pr-2 my-auto h-5"/>
+                                (719) 440 - 9462
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <main class="z-0">
+                <div class="h-screen flex justify-center">
+                    <div class="z-10 absolute mt-10 sm:mt-24 max-w-xs sm:max-w-full flex-col">
+                        <img class="w-20 sm:w-48 mx-auto" src="/img/logo.png" alt="Crown logo"/>
+                        <h1 class="text-4xl sm:text-7xl text-gray-800 mx-auto text-center mt-3 sm:mt-4 font-rtsBold">Regal Tech Support</h1>
+                        <h2 class="text-xl sm:text-3xl text-gray-800 mx-auto mt-1 sm:mt-4 font-rts text-center">IT Support at home and at work in Colorado Springs</h2>
+                        <button class="text-xl sm:text-3xl bg-indigo-700 hover:bg-indigo-600 py-3 px-5 sm:py-4 sm:px-8 mx-auto flex mt-8 sm:mt-12 text-gray-100 font-rtsBold uppercase tracking-wide rounded-md items-center shadow-lg hover:shadow-xl">GET SUPPORT</button>
+                    </div>
+                    <img class="z-0 h-screen w-screen object-cover object-center" src="/img/castle.png" alt="Castle in mountains"/>
+                </div>
+                <div class="max-w-7xl mx-auto align-center flex-1">
+                    <div class="inline-block mx-5 my-10">
+                        <h2 class="flex-1 text-4xl md:text-5xl text-gray-800 text-right">What Makes Us Different?</h2>
+                        <div class="flex-row mt-3">
+                            <div class="bg-blue-500 h-1/4 w-1/2 p-3 float-left"><p>Mascot place holder</p></div>
+                            <p class="w-1/2 float-right p-3 text-lg md:text-2xl">Typical IT support is there only when things break. We would rather design and build solutions to any technological issues. We believe that reliability and security are possible with any budget!</p>
+                        </div>
+                    </div>
+                    <div class=" bg-red-500 h-1/6 flex"><p>Divider place holder</p></div>
+                    <div class="inline-block mx-5 my-10">
+                        <h2 class="text-4xl md:text-5xl text-gray-800 textleft">What We Do</h2>
+                        <div class="bg-blue-500 h-1/4 w-1/2 p-3 float-left"><p>Mascot place holder</p></div>
+                        <div class="w-1/2 float-right p-3 align-middle">
+                            <p class="text-lg md:text-2xl">We build modern solutions for you at home and at work</p>
+                            <ul class="my-4 mx-1 md:mx-8">
+                                <li class="text-md md:text-xl">WiFi not working?</li>
+                                <li class="text-md md:text-xl">Printer won't print?</li>
+                                <li class="text-md md:text-xl">Zoom cannot share screen?</li>
+                                <li class="text-md md:text-xl">How to backup Windows?</li>
+                                <li class="text-md md:text-xl">Worried about hackers?</li>
+                            </ul>
+                        </div>
+                        <p class="inline-block mt-2 text-lg md:text-2xl">We build customized plans for your household, family, or small buisness. Contact us and we will discuss possible solutions for free!</p>
+                    </div>
+                    <div class=" bg-red-500 h-1/6 flex"><p>Divider place holder</p></div>
+                    <div class="flex-1 mx-5 my-10 w-">
+                        <h2 class="text-4xl md:text-5xl text-gray-800 text-left">Usefull Tools!</h2>
+                        <p class="text-lg">Always free, enjoy!</p>
+                        <div class="bg-green-500 flex-1 h-1/2"><p>Tools place holder</p></div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </body>
 </html>
