@@ -4224,6 +4224,22 @@ video {
   background-image: linear-gradient(to top left, var(--tw-gradient-stops));
 }
 
+.bg-polygons-indigo {
+  background-image: url('/img/polygons-indigo.svg');
+}
+
+.bg-polygons-green {
+  background-image: url('/img/polygons-green.svg');
+}
+
+.bg-polygons-gold {
+  background-image: url('/img/polygons-gold.svg');
+}
+
+.bg-divider-mountains {
+  background-image: url('/img/divider-mountains.svg');
+}
+
 .from-transparent {
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -11472,6 +11488,10 @@ video {
 
 .h-screen {
   height: 100vh;
+}
+
+.h-tools {
+  height: 480;
 }
 
 .text-xs {
@@ -34870,6 +34890,22 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .sm\:bg-polygons-indigo {
+    background-image: url('/img/polygons-indigo.svg');
+  }
+
+  .sm\:bg-polygons-green {
+    background-image: url('/img/polygons-green.svg');
+  }
+
+  .sm\:bg-polygons-gold {
+    background-image: url('/img/polygons-gold.svg');
+  }
+
+  .sm\:bg-divider-mountains {
+    background-image: url('/img/divider-mountains.svg');
+  }
+
   .sm\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -42118,6 +42154,10 @@ video {
 
   .sm\:h-screen {
     height: 100vh;
+  }
+
+  .sm\:h-tools {
+    height: 480;
   }
 
   .sm\:text-xs {
@@ -65426,6 +65466,22 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .md\:bg-polygons-indigo {
+    background-image: url('/img/polygons-indigo.svg');
+  }
+
+  .md\:bg-polygons-green {
+    background-image: url('/img/polygons-green.svg');
+  }
+
+  .md\:bg-polygons-gold {
+    background-image: url('/img/polygons-gold.svg');
+  }
+
+  .md\:bg-divider-mountains {
+    background-image: url('/img/divider-mountains.svg');
+  }
+
   .md\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -72674,6 +72730,10 @@ video {
 
   .md\:h-screen {
     height: 100vh;
+  }
+
+  .md\:h-tools {
+    height: 480;
   }
 
   .md\:text-xs {
@@ -95982,6 +96042,22 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .lg\:bg-polygons-indigo {
+    background-image: url('/img/polygons-indigo.svg');
+  }
+
+  .lg\:bg-polygons-green {
+    background-image: url('/img/polygons-green.svg');
+  }
+
+  .lg\:bg-polygons-gold {
+    background-image: url('/img/polygons-gold.svg');
+  }
+
+  .lg\:bg-divider-mountains {
+    background-image: url('/img/divider-mountains.svg');
+  }
+
   .lg\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -103230,6 +103306,10 @@ video {
 
   .lg\:h-screen {
     height: 100vh;
+  }
+
+  .lg\:h-tools {
+    height: 480;
   }
 
   .lg\:text-xs {
@@ -126538,6 +126618,22 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .xl\:bg-polygons-indigo {
+    background-image: url('/img/polygons-indigo.svg');
+  }
+
+  .xl\:bg-polygons-green {
+    background-image: url('/img/polygons-green.svg');
+  }
+
+  .xl\:bg-polygons-gold {
+    background-image: url('/img/polygons-gold.svg');
+  }
+
+  .xl\:bg-divider-mountains {
+    background-image: url('/img/divider-mountains.svg');
+  }
+
   .xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -133786,6 +133882,10 @@ video {
 
   .xl\:h-screen {
     height: 100vh;
+  }
+
+  .xl\:h-tools {
+    height: 480;
   }
 
   .xl\:text-xs {
@@ -157094,6 +157194,22 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .\32xl\:bg-polygons-indigo {
+    background-image: url('/img/polygons-indigo.svg');
+  }
+
+  .\32xl\:bg-polygons-green {
+    background-image: url('/img/polygons-green.svg');
+  }
+
+  .\32xl\:bg-polygons-gold {
+    background-image: url('/img/polygons-gold.svg');
+  }
+
+  .\32xl\:bg-divider-mountains {
+    background-image: url('/img/divider-mountains.svg');
+  }
+
   .\32xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -164342,6 +164458,10 @@ video {
 
   .\32xl\:h-screen {
     height: 100vh;
+  }
+
+  .\32xl\:h-tools {
+    height: 480;
   }
 
   .\32xl\:text-xs {
