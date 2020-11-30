@@ -4240,6 +4240,14 @@ video {
   background-image: url('/img/divider-mountains.svg');
 }
 
+.bg-divider-houses {
+  background-image: url('/img/divider-houses.svg');
+}
+
+.bg-divider-towers {
+  background-image: url('/img/divider-towers.svg');
+}
+
 .from-transparent {
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -35006,6 +35014,14 @@ video {
     background-image: url('/img/divider-mountains.svg');
   }
 
+  .sm\:bg-divider-houses {
+    background-image: url('/img/divider-houses.svg');
+  }
+
+  .sm\:bg-divider-towers {
+    background-image: url('/img/divider-towers.svg');
+  }
+
   .sm\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -65680,6 +65696,14 @@ video {
 
   .md\:bg-divider-mountains {
     background-image: url('/img/divider-mountains.svg');
+  }
+
+  .md\:bg-divider-houses {
+    background-image: url('/img/divider-houses.svg');
+  }
+
+  .md\:bg-divider-towers {
+    background-image: url('/img/divider-towers.svg');
   }
 
   .md\:from-transparent {
@@ -96358,6 +96382,14 @@ video {
     background-image: url('/img/divider-mountains.svg');
   }
 
+  .lg\:bg-divider-houses {
+    background-image: url('/img/divider-houses.svg');
+  }
+
+  .lg\:bg-divider-towers {
+    background-image: url('/img/divider-towers.svg');
+  }
+
   .lg\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -127034,6 +127066,14 @@ video {
     background-image: url('/img/divider-mountains.svg');
   }
 
+  .xl\:bg-divider-houses {
+    background-image: url('/img/divider-houses.svg');
+  }
+
+  .xl\:bg-divider-towers {
+    background-image: url('/img/divider-towers.svg');
+  }
+
   .xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -157708,6 +157748,14 @@ video {
 
   .\32xl\:bg-divider-mountains {
     background-image: url('/img/divider-mountains.svg');
+  }
+
+  .\32xl\:bg-divider-houses {
+    background-image: url('/img/divider-houses.svg');
+  }
+
+  .\32xl\:bg-divider-towers {
+    background-image: url('/img/divider-towers.svg');
   }
 
   .\32xl\:from-transparent {
