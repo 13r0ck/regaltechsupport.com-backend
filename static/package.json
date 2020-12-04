@@ -1,7 +1,7 @@
 {
-  "name": "rts_website",
+  "name": "site_rts",
   "collaborators": [
-    "brock"
+    "13r0ck <bnr@tuta.io>"
   ],
   "version": "0.1.0",
   "files": [
